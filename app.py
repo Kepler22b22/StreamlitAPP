@@ -16,7 +16,7 @@ from parse_resume import extract_relevant_json, update_relevant_json
 from data.resume_templates import RESUME_TEMPLATES
 
 
-st.title("Resume PDF ⇄ JSON Converter")
+st.title("WELCOME\nResume PDF ⇄ JSON Converter")
 chroma_db=set_chroma_db(RESUME_TEMPLATES)
 openai_key = st.text_input("Enter your OpenAI API Key", type="password")
 
