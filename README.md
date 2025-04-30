@@ -27,8 +27,6 @@
 
       ├── app.py                  # Main Streamlit application
 
-      ├── Streamlit_UI.py          # UI components for Streamlit
-
       ├── convert_pdf_to_json.py   # Extracts resume content from PDFs
 
       ├── convert_json_to_pdf.py   # Generates PDFs from structured JSON
