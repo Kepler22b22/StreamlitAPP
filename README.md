@@ -1,9 +1,7 @@
 
 # 🚀 StreamlitAPP
 
-  [![Live App](https://img.shields.io/badge/Launch-App-green?style=for-the-badge)](http://resgen.streamlit.app)
-
-  Currently Unavaliable (Need to upload all locl models)
+  [![Live App](https://img.shields.io/badge/Launch-App-green?style=for-the-badge)](http://resgen.streamlit.app)  Currently Unavaliable (Need to upload all locl models)
 
   A Streamlit-based web application for AI-powered resume generation and enhancement, utilizing Retrieval-Augmented Generation (RAG) techniques.
   Seamlessly converts resumes between formats, retrieves best-matching templates, and generates polished, ATS-compliant documents ready for submission.
