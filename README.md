@@ -94,7 +94,7 @@ Inspired by the need for faster, smarter resume generation.
 
 # 🌟 Acknowledgments
 
-# Inspired by the need for faster, smarter resume generation. And thanks to the incredible open-source community. Special thanks to my amazing teammates for their collaboration and dedication:
+ Inspired by the need for faster, smarter resume generation. And thanks to the incredible open-source community. Special thanks to my amazing teammates for their collaboration and dedication:
 
 - **Aryan Vats** – MS in CS  
 - **Nidhi Choudhary** – MS in ADS  
