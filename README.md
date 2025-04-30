@@ -92,18 +92,15 @@ Feel free to use, modify, and distribute it with attribution.
 
 Inspired by the need for faster, smarter resume generation.
 
-# Inspired by the need for faster, smarter resume generation.
+# 🌟 Acknowledgments
 
-# Special thanks to my amazing teammates for their collaboration and dedication:
+# Inspired by the need for faster, smarter resume generation. And thanks to the incredible open-source community. Special thanks to my amazing teammates for their collaboration and dedication:
 
-  - Aryan Vats – MS in CS
+- **Aryan Vats** – MS in CS  
+- **Nidhi Choudhary** – MS in ADS  
+- **Eben Gunadi** – MS in DS (Healthcare)  
+- **Muqi Zhang** – MS in CS  
+- **Justin Chen** – BS in DS  
 
-  - Nidhi Choudhary – MS in ADS
+![Team Photo](assets/team_photo.png)
 
-  - Eben Gunadi – MS in DS (Healthcare)
-
-  - Muqi Zhang – MS in CS
-
-  - Justin Chen – BS in DS
-
-# And thanks to the incredible open-source community.
