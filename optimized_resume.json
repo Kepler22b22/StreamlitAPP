@@ -1,0 +1,92 @@
+```json
+{
+  "basics": {
+    "summary": "Experienced software developer with a strong background in building data processing pipelines and web-based user interfaces. Proficient in Python and scientific computation, with a proven track record of integrating advanced technologies into business processes. Excellent communicator and collaborator, adept at working in dynamic environments."
+  },
+  "work": [
+    {
+      "company": "Tech Solutions Inc.",
+      "position": "Software Developer",
+      "startDate": "2021-06",
+      "endDate": "Present",
+      "highlights": [
+        "Developed a backend service using LLMs and APIs to efficiently screen large volumes of resumes, enhancing the recruitment process.",
+        "Created and optimized barista-style prompts to improve model accuracy in data processing tasks.",
+        "Conducted pilot tests on thousands of resumes across various cities, ensuring robust system performance.",
+        "Collaborated with cross-functional teams to integrate the resume screener into the hiring process, streamlining operations."
+      ]
+    },
+    {
+      "company": "Data Insights Corp.",
+      "position": "Data Analyst",
+      "startDate": "2019-01",
+      "endDate": "2021-05",
+      "highlights": [
+        "Built a Python tool for analyzing staff attendance, improving HR efficiency.",
+        "Coordinated recruitment processes, managed visiting scholars, and conducted performance appraisals.",
+        "Facilitated cross-team communication and collaboration, enhancing project outcomes."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "Matlab",
+        "R",
+        "JavaScript",
+        "SQL",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "name": "Tools/Frameworks",
+      "keywords": [
+        "AWS",
+        "LangChain",
+        "Azure",
+        "Hugging Face",
+        "TensorFlow",
+        "Pytorch",
+        "GitHub",
+        "Jupyter Notebook",
+        "Matplotlib",
+        "sklearn",
+        "Pandas",
+        "Numpy",
+        "Linux",
+        "NoSQL",
+        "MySQL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Intelligent Resume Generation System with RAG and LLMs",
+      "highlights": [
+        "Developed a Streamlit web app for instant resume generation, enhancing user experience.",
+        "Created a pipeline to convert resume PDFs to structured JSON, improving data accessibility.",
+        "Implemented RAG with ChromaDB to enhance LLM content generation, increasing system efficiency."
+      ]
+    },
+    {
+      "name": "Click-Through Rate Prediction for Ad Recommendations",
+      "highlights": [
+        "Integrated DIN, FM, and DNN for CTR prediction, achieving a final AUC of 78% on the test set.",
+        "Analyzed user profiles, ad information, and interaction history to optimize ad recommendations."
+      ]
+    },
+    {
+      "name": "Statistical Downscaled Climate Projection Dataset for China",
+      "highlights": [
+        "Reduced temperature bias by 80% and precipitation bias by 90% using artificial neural networks.",
+        "Published findings as the first author in a scientific journal, contributing to climate research."
+      ]
+    }
+  ]
+}
+```
